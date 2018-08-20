@@ -16,6 +16,7 @@ group :development, :test do
   gem 'sqlite3'
   gem 'byebug'
   gem 'simplecov', :require => false
+  gem 'simplecov-cobertura'
 end
 
 group :test do
